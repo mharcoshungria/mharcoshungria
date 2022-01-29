@@ -15,8 +15,8 @@ Sou formado em Big Data e Inteligência Analítica e apaixonado por tecnologia e
 Possuo experiência com Customer Experience e Customer Success, onde trabalhei com métricas e indicadores operacionais, extração e análise de dados, criação de dashboards, loyalty, qualidade e melhoria de processos, relatórios e CRM (Salesforce).
 
 Expertise em Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Excel, Data Studio e Power BI.
-
-
+ 
+  
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
