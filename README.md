@@ -1,4 +1,5 @@
-# Hi, I'm Mharcos! :D
+# Hi, I'm Mharcos! 
+#### Sim com "H" mesmo :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/mharcoshungria)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mharcoshungria/)](https://www.linkedin.com/in/mharcoshungria/)
@@ -8,7 +9,13 @@
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
   
 ### About me
-(Construindo)
+
+Sou formado em Big Data e Inteligência Analítica e apaixonado por tecnologia e inovação. Atualmente estou em processo de transição de carreira para a área de dados e analytics.
+
+Possuo experiência com Customer Experience e Customer Success, onde trabalhei com métricas e indicadores operacionais, extração e análise de dados, criação de dashboards, loyalty, qualidade e melhoria de processos, relatórios e CRM (Salesforce).
+
+Expertise em Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Excel, Data Studio e Power BI.
+
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
