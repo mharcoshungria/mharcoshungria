@@ -10,7 +10,9 @@
   
 ## About me
 
-Sou formado em Big Data e Inteligência Analítica e apaixonado por tecnologia e inovação. Atualmente estou em processo de transição de carreira para a área de dados e analytics.
+Sou formado em Big Data e Inteligência Analítica e apaixonado por tecnologia e inovação. 
+
+Iniciei uma transição de carreira para a área de dados e analytics e hoje trabalho no QuintoAndar 💙
 
 Possuo experiência com Customer Experience e Customer Success, onde trabalhei com métricas e indicadores operacionais, extração e análise de dados, criação de dashboards, loyalty, qualidade e melhoria de processos, relatórios e CRM (Salesforce).
 
