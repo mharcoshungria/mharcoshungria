@@ -10,13 +10,13 @@
   
 ## About me
 
-Sou formado em Big Data e Inteligência Analítica e apaixonado por tecnologia e inovação. 
+Formado em Big Data e Inteligência Analítica e atualmente cursando pós-graduação em IA e Machine Learning. 
 
-Iniciei uma transição de carreira para a área de dados e analytics e hoje trabalho no QuintoAndar 💙
+Iniciei minha transição de carreira para a área de dados e hoje trabalho como Data Analyst no QuintoAndar 💙
 
-Possuo experiência com Customer Experience e Customer Success, onde trabalhei com métricas e indicadores operacionais, extração e análise de dados, criação de dashboards, loyalty, qualidade e melhoria de processos, relatórios e CRM (Salesforce).
+Possuo experiência com Customer Experience e Customer Success, onde trabalhei com métricas e indicadores operacionais, extração e análise de dados, criação de dashboards, loyalty, qualidade e melhoria de processos, relatórios e CRM. 
 
-Expertise em Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Excel, Data Studio e Power BI.
+Expertise em Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Excel e Data Studio.
   
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
