@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mharcoshungria/)](https://www.linkedin.com/in/mharcoshungria/)
 
-## Meu nome é Mharcos - sim com "H" mesmo - sou apaixonado por tecnologia e inovação
+## Me chamo Mharcos - sim com "H" mesmo - sou apaixonado por tecnologia e inovação
   
 ### About me
 
