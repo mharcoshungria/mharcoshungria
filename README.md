@@ -1,11 +1,8 @@
-# Hi, I'm Mharcos :D
-Sim é com "H" mesmo!
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mharcoshungria/)](https://www.linkedin.com/in/mharcoshungria/)
-  
-## About me
 
-Formado em Big Data e Inteligência Analítica e atualmente cursando pós-graduação em Inteligência Artificial e Machine Learning.
+# Hi, I'm Mharcos :D
+
+Sou formado em Big Data e Inteligência Analítica e atualmente cursando pós-graduação em Inteligência Artificial e Machine Learning.
 
 Possuo experiência com Customer Experience, Customer Success e Data Analytics, onde trabalhei com KPIs, extração e análise de dados operacionais e de performance, criação de dashboards e reports, estratégia de loyalty, análise de requisitos, qualidade e melhoria de processos, régua de cobrança e CRM.
 
