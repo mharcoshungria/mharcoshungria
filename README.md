@@ -1,15 +1,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mharcoshungria/)](https://www.linkedin.com/in/mharcoshungria/)
 
-## Hi, I'm Mharcos =)
+## Hey guys! =)
 
-## About me
+My name is Mharcos (pronounced "Marcos"). I graduated in Big Data and Analytics at UNIASSELVI, studying Artificial Intelligence and Machine Learning at PUC MINAS and started my MBA in Data Science and Analytics at USP.
 
-Sou apaixonado por dados, tecnologia e pessoas. Possuo formação em Big Data e Inteligência Analítica e atualmente cursando pós-graduação em Inteligência Artificial e Machine Learning. 
+Background in extracting, manipulating and analyzing data. Creation of reports and dashboards. Identification, creation and monitoring of KPI's. Project management and requirements analysis. CRM and Loyalty Strategy.
 
-Transito bem entre as áreas técnicas e de negócio, o que me permite entender como os dados podem agregar valor, que tipo de produtos podem ser criados e quais perguntas podem ser respondidas.
+I move well between technical and business areas, which allows me to understand how data can add value, what kind of products can be created and what questions can be answered.
 
-## Background
-
-Background em Data Analytics, Customer Experience e Customer Success, onde trabalhei com extração, manipulação e análise de dados, criação de dashboards e reports, criação e acompanhamento de KPI's, estratégia de loyalty, análise de requisitos, qualidade e melhoria de processos, régua de cobrança e CRM. 
-
-Expertise em Python, SQL, SOQL, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scikit-learn e Machine Learning.
+Tools: SQL, SOQL, Excel, Google Sheets, Looker Studio, Power BI, Python, Pandas, Numpy, Matplotlib, Seaborn e Plotly.
